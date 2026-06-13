@@ -1,0 +1,12 @@
+{
+    "experiment_date": "2026-06-13",
+    "dataset": "Sklearn Wine Dataset",
+    "Light_RandomForest": {
+        "accuracy": 0.9444444444444444,
+        "co2_emissions_kg": 1.2540363991603018e-06
+    },
+    "Heavy_ExtraTrees": {
+        "accuracy": 1.0,
+        "co2_emissions_kg": 1.6828267865197879e-06
+    }
+}
